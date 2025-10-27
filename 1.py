@@ -5,8 +5,4 @@ a = 1
 
 d = 1
 
-
-
-# 这是在master中的一个操作，用于测试于dev的冲突情况
-# change in dev
-
+# 这个操作模拟在master上修bug
